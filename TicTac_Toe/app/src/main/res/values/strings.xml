@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic-Tac_Toe</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="password_et">Password</string>
+    <string name="sucessful">Login succesful</string>
+    <string name="notsuccessful">Fill empty fields</string>
+</resources>
